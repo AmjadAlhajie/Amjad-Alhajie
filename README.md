@@ -18,7 +18,7 @@
 ## 👋 About Me
 
 🎓 CS student at Damascus University  
-⚙ Strong Foundations In C++, and Web Development  
+⚙ Strong Foundations In C++,C#, and Web Development  
 🚀 Aspiring .NET Full Stack Developer With a Focus On Building Solid Backend Systems   
 
 ## 🧰 Tech Stack
@@ -37,6 +37,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
+  <img src="https://img.shields.io/badge/2025-blue?style=flat-square" />
 </p>
 
 ### 🛠️ Tools
