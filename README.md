@@ -18,19 +18,19 @@
 ## 👋 About Me
 
 🎓 CS student at Damascus University  
-⚙ Strong Foundations In C++,C#, and Web Development  
+⚙ Strong Foundations In C++,C#,Java,PHP,and Web Development  
 🚀 Aspiring .NET Full Stack Developer With a Focus On Building Solid Backend Systems   
 
 ## 🧰 Tech Stack
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,html" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet" /> 
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel" /> 
 </p>
 
 ### 🗄️ Databases
